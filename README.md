@@ -1,4 +1,4 @@
-Online Retail Data Analysis – Executive Insights
+Empowering Business with Effective Insights
 📌 Project Overview
 
 This project delivers a strategic data analysis and visualization report for executive stakeholders (CEO & CMO), focusing on key business questions derived from online retail data. The analysis highlights revenue trends, top-performing countries, high-value customers, and product demand by region, providing actionable insights for forecasting, marketing, and expansion strategies.
